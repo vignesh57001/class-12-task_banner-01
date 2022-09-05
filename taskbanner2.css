@@ -1,0 +1,63 @@
+.body{
+    background-color:aliceblue;
+}
+.head{
+    background-color:rgb(14, 3, 3);
+    margin: 80px 430px ;
+    padding: 20px 0px;    
+}
+.col-md-3{
+  margin:5px 5px;
+  padding:10px 0px 0px 70px;
+  color: aliceblue;
+}
+.col-md-8{
+    margin:10px 8px 10px 6px;
+    padding-right: 45px;
+    color: aliceblue;
+}
+.col1-md-6{
+    background-color: orange;
+    color: aliceblue;
+  text-align: center;
+  margin: 5px 1px 5px 25px;
+  padding: 3px ;
+}
+.col2-md-6{
+    background-color:rgb(27, 170, 218);
+    color: aliceblue;
+  text-align: center;
+  margin: 5px 5px 5px 1px;
+  padding: 2px 13px 2px 13px;
+}
+.redbox{
+  background-color:rgb(212, 41, 41);
+  color:aliceblue;
+  margin:20px 17px 20px 25px;
+  padding:10px 7px;
+  font-size: 14px;
+}
+.skyblue-box{
+  background-color:rgb(27, 170, 218);
+  color: aliceblue;
+  margin:10px 17px 20px 25px;
+  padding:7px 4px 5px 5px;
+  font-size: 12px;
+}
+.pad{
+  padding:30px 0px 0px 0px;
+}
+.french{
+  background-color:rgb(212, 41, 41);
+  color: aliceblue;
+  margin:5px 17px 5px 25px;
+ 
+  font-size: 12px;
+}
+.juice{
+  background-color:rgba(245, 166, 19, 0.781);
+  color: aliceblue;
+ 
+  padding: 10px 10px;
+  font-size: 12px;
+}
